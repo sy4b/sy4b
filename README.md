@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sy4b
-- 🌱 I’m currently learning Effective Modern C++ and Algorithm
+- 🌱 I’m currently learning Effective C++, computer system and Algorithm
+- 😈 Follow my Bilibili channel: sy4b
 - 📫 mail me: sybstudy@yeah.net
 ---
 
