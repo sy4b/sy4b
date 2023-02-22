@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sy4b
-- 🌱 I’m currently learning Effective C++, computer system and Algorithm
+- 🌱 A student from SCUT. Try to be better.
 - 😈 Follow my Bilibili channel: sy4b
 - 📫 mail me: sybstudy@yeah.net
 ---
